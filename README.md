@@ -1,49 +1,53 @@
 # SPH Global Research: Institutional Strategic Framework (2026-2030)
 
 ## 1. Executive Leadership & Vision
-**SPH Global Research** is a premier international research organization dedicated to the strategic advancement of the Republic of Somaliland and the Horn of Africa.
+**SPH Global Research** is a premier international research organization dedicated to the strategic advancement of the Republic of Somaliland and the broader Horn of Africa.
 
 * **Founder & CEO:** Ahmed Ismail Saed Hussein
-* **Profile:** Ahmed Ismail is an acclaimed Independent Researcher, Author, and Strategic Director. 
-* **Vision:** To lead the transition of traditional governance and peace-building into the digital age through High-Tech Innovation, Robotics, and Evidence-Based Policy Research.
+* **Leadership Profile:** Ahmed Ismail Saed Hussein is an acclaimed Author, Independent Researcher, and the Strategic Director of SPH Global Research.
+* **Vision:** To lead the modernization of governance, peace-building, and economic systems through AI, Robotics, and evidence-based research tailored to the unique needs of the Republic of Somaliland.
 
 ## 2. Institutional Pillars & Innovation Strategy
-SPH Global Research operates at the intersection of three critical domains:
+SPH Global Research operates at the intersection of three critical strategic domains:
 
 ### A. Digital Transformation of Conflict Resolution
-We have successfully transitioned traditional mediation manuals and "Xeer" frameworks into **Digital Books**. This digitalization ensures data integrity, rapid dissemination of peace-building protocols, and historical archiving of conflict resolution models.
+We have pioneered the transition of traditional mediation manuals and "Xeer" (Somali Customary Law) frameworks into **Digital Formats**. This digitalization ensures data integrity, enables rapid dissemination of peace-building protocols, and allows for AI-driven analysis of historical conflict resolution models.
 
-### B. Human Capital & Workforce Development
-Upon securing strategic investment, SPH Global is committed to deploying a **Highly Trained Professional Workforce**. Our personnel are specifically "Carbisan" (trained and specialized) in:
-* Advanced Field Research & Geopolitical Analysis.
-* Digital Data Management & Institutional Governance.
+### B. Human Capital & Specialized Workforce
+Upon securing strategic investment, SPH Global is committed to deploying a **Highly Trained Professional Workforce**. Our personnel are specifically "Carbisan" (rigorously trained and specialized) in executing digital research, field data management, and the administration of advanced technical systems.
 
 ### C. Robotics for Monitoring & Quality Assurance (QA)
-To ensure the highest standards of accuracy (Xaqiijinta xogta) and operational oversight (Kormeerka shaqada), SPH Global integrates **Robotics and AI-driven Drones**. These tools act as independent monitors for:
-* Remote infrastructure project verification.
-* Environmental and maritime data collection.
-* Automated reporting to international partners (e.g., NSF).
+To ensure absolute data verification and operational oversight (Project Supervision), SPH Global integrates **Robotics and AI**. We utilize robotic systems and drones for continuous field monitoring, ensuring that all national development projects reach their defined milestones with zero margin for human error.
 
 ## 3. The Unified Project Ecosystem (12 Strategic Units)
-1. **SDIRH:** Somaliland National Digital Innovation & Robotics Hub.
-2. **SREG:** Sanaag Renewable Energy Grid (Solar/Wind Hybrid).
-3. **SMIBE:** Maritime Infrastructure & Blue Economy (Laasqoray, Maydh, Xiis).
-4. **SESTI:** Sanaag Environment & Sustainable Tourism Initiative.
-5. **SSE-Corridor:** Sanaag-Saaxil Economic Infrastructure.
-6. **Smart-Xeer:** Digitalized Mediation & Policy Models.
-*(And other institutional frameworks developed by SPH Global).*
+The following 12 projects constitute the SPH Global Integrated Ecosystem on GitHub:
 
-## 4. Financial & Strategic Alignment
-We are currently positioning our portfolio for global partnerships, specifically targeting the **National Science Foundation (NSF)** and international development funds. Our models are built for scalability, transparency, and high-tech execution.
+1.  **SPH-G (Project 12):** Master Institutional Framework (CEO Strategic Portfolio).
+2.  **SNDIRH (Project 11):** Somaliland National Digital Innovation & Robotics Hub.
+3.  **SREG (Project 10):** Sanaag Renewable Energy Grid (Solar/Wind Hybrid).
+4.  **SMIBE (Project 09):** Maritime Infrastructure & Blue Economy (Port Modernization).
+5.  **U-REPO (Project 08):** Unified Research Repository (National Database).
+6.  **L-TECH (Project 07):** Legal-Tech & Policy Analysis Framework.
+7.  **NSF-P (Project 06):** National Science Foundation (NSF) Grant Strategy.
+8.  **Smart-Xeer (Project 05):** Digitalized Mediation & Conflict Resolution Books.
+9.  **AGRI-B (Project 04):** Bancadde Mechanized Agriculture & Food Security.
+10. **S-PORTAL (Project 03):** SPH Strategic Institutional Research Portal.
+11. **SSE-C (Project 02):** Sanaag-Saaxil Economic Corridor & Infrastructure.
+12. **SESTI (Project 01):** Sanaag Environment & Sustainable Tourism Initiative.
+
+## 4. Operational Synergy & Execution Roadmap
+These initiatives function as a synchronized system:
+* **SREG** provides the renewable energy required by **SMIBE** (Ports) and **AGRI-B** (Mechanized Farming).
+* **SNDIRH** (Robotics Hub) produces the specialized workforce and robotic systems that monitor and audit all other projects.
+* **Smart-Xeer** provides the legal stability and conflict resolution necessary to protect economic development.
 
 ## 5. Repository Navigation
 * [👨‍💼 CEO_PROFILE.md](./CEO_PROFILE.md) - Leadership biography and digital authorship.
-* [📊 OPERATIONS_ROBOTICS.md](./OPERATIONS_ROBOTICS.md) - Use of robots in monitoring and verification.
+* [📊 OPERATIONS_ROBOTICS.md](./OPERATIONS_ROBOTICS.md) - Robotics in monitoring and verification.
 * [🎓 WORKFORCE_DEVELOPMENT.md](./WORKFORCE_DEVELOPMENT.md) - Training and personnel strategy.
 * [⚖️ DIGITAL_CONFLICT_MODELS.md](./DIGITAL_CONFLICT_MODELS.md) - Digitalized peace-building frameworks.
 
 ---
 **Institutional ID:** 30019622947689  
 **Headquarters:** Erigavo / Hargeisa, Somaliland  
-**Direct Contact:** Directorate, SPH Global Research  
 **Status:** Project 12/12 | **Finalized Master Portfolio**
