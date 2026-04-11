@@ -1,9 +1,9 @@
 # Professional Personnel & Training Strategy
 
 ## 1. The "Carbisan" Workforce
-Upon project funding, SPH Global will mobilize a specialized workforce of engineers and researchers. 
-* **Training:** All staff undergo a rigorous certification process in Digital Operations.
+Upon securing funding, SPH Global will mobilize a specialized workforce. 
+* **Specialized Training:** All staff undergo rigorous certification in SPH Digital Operations.
 * **Skillsets:** Focus on AI-driven data analysis, robotic drone piloting, and institutional policy research.
 
-## 2. Economic Impact
-By building a local, highly-skilled technical team, SPH Global reduces regional unemployment and ensures that Somaliland's tech future is managed by its own experts.
+## 2. Long-Term Strategy
+By building a local, highly-skilled technical team, SPH Global ensures that Somaliland's tech future is managed by indigenous experts trained in international standards.
