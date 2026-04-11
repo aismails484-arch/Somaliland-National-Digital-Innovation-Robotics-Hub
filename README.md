@@ -8,6 +8,7 @@
 * **Vision:** To lead the modernization of governance, peace-building, and economic systems through AI, Robotics, and evidence-based research.
 
 ## 2. Institutional Pillars & Innovation Strategy
+
 ### A. Digital Transformation of Conflict Resolution
 We have transitioned traditional mediation manuals and "Xeer" (Somali Customary Law) frameworks into **Digital Books**. This ensures data integrity and allows for AI-driven analysis of historical conflict resolution models.
 
@@ -15,7 +16,7 @@ We have transitioned traditional mediation manuals and "Xeer" (Somali Customary 
 Upon securing investment, SPH Global will deploy a **Highly Trained Professional Workforce**. Our personnel are rigorously trained ("Carbisan") in digital research and advanced technical systems administration.
 
 ### C. Robotics for Monitoring & Quality Assurance (QA)
-To ensure absolute data verification and operational oversight, SPH Global integrates **Robotics and AI**. We utilize drones and sensors for continuous field monitoring, ensuring projects reach milestones with zero margin for error.
+To ensure absolute data verification and operational oversight, SPH Global integrates **Robotics and AI**. Using drones and multi-modal sensors (Video/Audio), we ensure 100% data accuracy and real-time project auditing.
 
 ## 3. The Unified Project Ecosystem (12 Strategic Units)
 1.  **SPH-G (Project 12):** Master Institutional Framework (CEO Strategic Portfolio).
@@ -31,11 +32,24 @@ To ensure absolute data verification and operational oversight, SPH Global integ
 11. **SSE-C (Project 02):** Sanaag-Saaxil Economic Corridor & Infrastructure.
 12. **SESTI (Project 01):** Sanaag Environment & Sustainable Tourism Initiative.
 
-## 4. Repository Navigation
+## 4. Strategic Access & Official Contacts
+
+### Institutional Repositories
+* **Strategic Institutional Portal:** [https://sph-global-portal.vercel.app](https://sph-global-portal.vercel.app)
+* **Institutional Research Repository (V2):** [https://sph-institutional-repository-v2.vercel.app](https://sph-institutional-repository-v2.vercel.app)
+
+### Executive Contact
+* **Founder & CEO:** Ahmed Ismail Saed Hussein
+* **Email:** [a.ismail.s484@gmail.com](mailto:a.ismail.s484@gmail.com)
+* **LinkedIn:** [Ahmed Ismail Saed](https://www.linkedin.com/in/ahmed-ismail-saed)
+* **Institutional ID:** 30019622947689
+* **Location:** Erigavo / Hargeisa, Republic of Somaliland
+
+## 5. Repository Navigation
 * [👨‍💼 CEO_PROFILE.md](./CEO_PROFILE.md) - Leadership biography and digital authorship.
 * [📊 OPERATIONS_ROBOTICS.md](./OPERATIONS_ROBOTICS.md) - Robotics in monitoring and verification.
 * [🎓 WORKFORCE_DEVELOPMENT.md](./WORKFORCE_DEVELOPMENT.md) - Training and personnel strategy.
 * [💰 INVESTMENT_ROADMAP.md](./INVESTMENT_ROADMAP.md) - Financial allocation and ROI.
 
 ---
-**Institutional ID:** 30019622947689 | **Status:** Project 12/12 (Finalized Master Portfolio)
+**Status:** Project 12/12 | **Finalized Master Portfolio for CS50 & NSF Submission**
