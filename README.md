@@ -4,24 +4,20 @@
 **SPH Global Research** is a premier international research organization dedicated to the strategic advancement of the Republic of Somaliland and the broader Horn of Africa.
 
 * **Founder & CEO:** Ahmed Ismail Saed Hussein
-* **Leadership Profile:** Ahmed Ismail Saed Hussein is an acclaimed Author, Independent Researcher, and the Strategic Director of SPH Global Research.
-* **Vision:** To lead the modernization of governance, peace-building, and economic systems through AI, Robotics, and evidence-based research tailored to the unique needs of the Republic of Somaliland.
+* **Leadership Profile:** Ahmed Ismail is an acclaimed Author, Independent Researcher, and the Strategic Director of SPH Global Research.
+* **Vision:** To lead the modernization of governance, peace-building, and economic systems through AI, Robotics, and evidence-based research.
 
 ## 2. Institutional Pillars & Innovation Strategy
-SPH Global Research operates at the intersection of three critical strategic domains:
-
 ### A. Digital Transformation of Conflict Resolution
-We have pioneered the transition of traditional mediation manuals and "Xeer" (Somali Customary Law) frameworks into **Digital Formats**. This digitalization ensures data integrity, enables rapid dissemination of peace-building protocols, and allows for AI-driven analysis of historical conflict resolution models.
+We have transitioned traditional mediation manuals and "Xeer" (Somali Customary Law) frameworks into **Digital Books**. This ensures data integrity and allows for AI-driven analysis of historical conflict resolution models.
 
 ### B. Human Capital & Specialized Workforce
-Upon securing strategic investment, SPH Global is committed to deploying a **Highly Trained Professional Workforce**. Our personnel are specifically "Carbisan" (rigorously trained and specialized) in executing digital research, field data management, and the administration of advanced technical systems.
+Upon securing investment, SPH Global will deploy a **Highly Trained Professional Workforce**. Our personnel are rigorously trained ("Carbisan") in digital research and advanced technical systems administration.
 
 ### C. Robotics for Monitoring & Quality Assurance (QA)
-To ensure absolute data verification and operational oversight (Project Supervision), SPH Global integrates **Robotics and AI**. We utilize robotic systems and drones for continuous field monitoring, ensuring that all national development projects reach their defined milestones with zero margin for human error.
+To ensure absolute data verification and operational oversight, SPH Global integrates **Robotics and AI**. We utilize drones and sensors for continuous field monitoring, ensuring projects reach milestones with zero margin for error.
 
 ## 3. The Unified Project Ecosystem (12 Strategic Units)
-The following 12 projects constitute the SPH Global Integrated Ecosystem on GitHub:
-
 1.  **SPH-G (Project 12):** Master Institutional Framework (CEO Strategic Portfolio).
 2.  **SNDIRH (Project 11):** Somaliland National Digital Innovation & Robotics Hub.
 3.  **SREG (Project 10):** Sanaag Renewable Energy Grid (Solar/Wind Hybrid).
@@ -35,19 +31,11 @@ The following 12 projects constitute the SPH Global Integrated Ecosystem on GitH
 11. **SSE-C (Project 02):** Sanaag-Saaxil Economic Corridor & Infrastructure.
 12. **SESTI (Project 01):** Sanaag Environment & Sustainable Tourism Initiative.
 
-## 4. Operational Synergy & Execution Roadmap
-These initiatives function as a synchronized system:
-* **SREG** provides the renewable energy required by **SMIBE** (Ports) and **AGRI-B** (Mechanized Farming).
-* **SNDIRH** (Robotics Hub) produces the specialized workforce and robotic systems that monitor and audit all other projects.
-* **Smart-Xeer** provides the legal stability and conflict resolution necessary to protect economic development.
-
-## 5. Repository Navigation
+## 4. Repository Navigation
 * [👨‍💼 CEO_PROFILE.md](./CEO_PROFILE.md) - Leadership biography and digital authorship.
 * [📊 OPERATIONS_ROBOTICS.md](./OPERATIONS_ROBOTICS.md) - Robotics in monitoring and verification.
 * [🎓 WORKFORCE_DEVELOPMENT.md](./WORKFORCE_DEVELOPMENT.md) - Training and personnel strategy.
 * [⚖️ DIGITAL_CONFLICT_MODELS.md](./DIGITAL_CONFLICT_MODELS.md) - Digitalized peace-building frameworks.
 
 ---
-**Institutional ID:** 30019622947689  
-**Headquarters:** Erigavo / Hargeisa, Somaliland  
-**Status:** Project 12/12 | **Finalized Master Portfolio**
+**Institutional ID:** 30019622947689 | **Status:** Project 12/12 (Finalized Master Portfolio)
