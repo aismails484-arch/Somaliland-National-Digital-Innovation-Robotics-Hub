@@ -35,7 +35,7 @@ To ensure absolute data verification and operational oversight, SPH Global integ
 * [👨‍💼 CEO_PROFILE.md](./CEO_PROFILE.md) - Leadership biography and digital authorship.
 * [📊 OPERATIONS_ROBOTICS.md](./OPERATIONS_ROBOTICS.md) - Robotics in monitoring and verification.
 * [🎓 WORKFORCE_DEVELOPMENT.md](./WORKFORCE_DEVELOPMENT.md) - Training and personnel strategy.
-* [⚖️ DIGITAL_CONFLICT_MODELS.md](./DIGITAL_CONFLICT_MODELS.md) - Digitalized peace-building frameworks.
+* [💰 INVESTMENT_ROADMAP.md](./INVESTMENT_ROADMAP.md) - Financial allocation and ROI.
 
 ---
 **Institutional ID:** 30019622947689 | **Status:** Project 12/12 (Finalized Master Portfolio)
