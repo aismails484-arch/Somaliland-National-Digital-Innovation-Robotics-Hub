@@ -34,16 +34,15 @@ To ensure absolute data verification and operational oversight, SPH Global integ
 
 ## 4. Strategic Access & Official Contacts
 
-### Institutional Repositories
-* **Strategic Institutional Portal:** [https://sph-global-portal.vercel.app](https://sph-global-portal.vercel.app)
 * **Institutional Research Repository (V2):** [https://sph-institutional-repository-v2.vercel.app](https://sph-institutional-repository-v2.vercel.app)
 
 ### Executive Contact
 * **Founder & CEO:** Ahmed Ismail Saed Hussein
 * **Email:** [a.ismail.s484@gmail.com](mailto:a.ismail.s484@gmail.com)
 * **LinkedIn:** [Ahmed Ismail Saed](https://www.linkedin.com/in/ahmed-ismail-saed)
+Facebook:[Ahmed Ismail Saed]
 * **Institutional ID:** 30019622947689
-* **Location:** Erigavo / Hargeisa, Republic of Somaliland
+* **Location:** EilAfwein/Erigavo / Hargeisa, Republic of Somaliland
 
 ## 5. Repository Navigation
 * [👨‍💼 CEO_PROFILE.md](./CEO_PROFILE.md) - Leadership biography and digital authorship.
